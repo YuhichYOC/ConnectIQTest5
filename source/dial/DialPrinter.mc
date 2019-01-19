@@ -1,18 +1,18 @@
 class DialPrinter {
 
-    private var penWidth;
-    private var arborWidth;
+    private var dialFont;
     private var fc;
     private var bc;
 
+    public function initialize() {
+        dialFont = WatchUi.loadResource(Rez.Fonts.id_font_dial);
+    }
+
     public function print(l) {
-        penWidth = 1;
-        arborWidth = 12;
         setColorsToFill();
         fill(l);
         setColorsToPrint();
-        printHashMarksForRound(l);
-        printArbor(l);
+        printDial(l);
     }
 
     private function setColorsToFill() {
@@ -43,39 +43,15 @@ class DialPrinter {
         }
     }
 
-    private function printHashMarksForRound(l) {
-        if (l.success()) {
-            var c = l.context();
-
-            var outerRad = l.size()[0] / 2;
-            var innerRad = outerRad - 20;
-            var offset = 2;
-            c.setColor(fc, bc);
-            c.setPenWidth(penWidth);
-            for (var i = 0; i < 12; ++i) {
-                var sX = outerRad + innerRad * Math.cos((Math.PI / 6) * i);
-                var eX = outerRad + outerRad * Math.cos((Math.PI / 6) * i);
-                var sY = outerRad + innerRad * Math.sin((Math.PI / 6) * i);
-                var eY = outerRad + outerRad * Math.sin((Math.PI / 6) * i);
-                if (0 == i || 6 == i) {
-                    c.drawLine(sX, sY - offset, eX, eY - offset);
-                    c.drawLine(sX, sY + offset, eX, eY + offset);
-                } else if (3 == i || 9 == i) {
-                    c.drawLine(sX - offset, sY, eX - offset, eY);
-                    c.drawLine(sX + offset, sY, eX + offset, eY);
-                } else {
-                    c.drawLine(sX, sY, eX, eY);
-                }
-            }
-        }
-    }
-
-    private function printArbor(l) {
+    private function printDial(l) {
         if (l.success()) {
             var c = l.context();
             c.setColor(fc, bc);
-            c.setPenWidth(penWidth);
-            c.drawCircle(l.center()[0], l.center()[1], arborWidth);
+            c.drawText(0
+                     , 0
+                     , dialFont
+                     , "d"
+                     , Toybox.Graphics.TEXT_JUSTIFY_LEFT);
         }
     }
 

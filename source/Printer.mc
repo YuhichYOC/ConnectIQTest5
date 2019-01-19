@@ -7,7 +7,6 @@ class Printer {
         Graphics.COLOR_WHITE
     ];
     private var l;
-    private var f;
     private var dialPrinter;
     private var hHandPrinter;
     private var mHandPrinter;
@@ -25,7 +24,6 @@ class Printer {
     public function initialize(argDc) {
         awake = true;
         tryAllocLayers(argDc);
-        f = WatchUi.loadResource(Rez.Fonts.id_font_font);
         allocPrinters();
         if (l.success()) {
             sHandPrinter = new SHandPrinter(l.size(), l.center());
@@ -35,17 +33,15 @@ class Printer {
     public function run(argDc) {
         argDc.clearClip();
         dialPrinter.print(l);
-        hHandPrinter.init(System.getClockTime());
         hHandPrinter.print(l);
-        mHandPrinter.init(System.getClockTime());
         mHandPrinter.print(l);
-        datePrinter.print(l, f);
+        datePrinter.print(l);
         if (l.success()) {
             argDc.drawBitmap(0, 0, l.buffer());
             if (partialAllowed) {
-                sHandPrinter.printWithClip(argDc, System.getClockTime());
+                sHandPrinter.printWithClip(argDc);
             } else if (awake) {
-                sHandPrinter.print(argDc, System.getClockTime());
+                sHandPrinter.print(argDc);
             }
         }
     }
@@ -54,7 +50,7 @@ class Printer {
         if (partialAllowed) {
             if (l.success()) {
                 argDc.drawBitmap(0, 0, l.buffer());
-                sHandPrinter.printWithClip(argDc, System.getClockTime());
+                sHandPrinter.printWithClip(argDc);
             }
         }
     }

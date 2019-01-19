@@ -1,9 +1,14 @@
 class DatePrinter {
 
+    private var dateFont;
     private var fc;
     private var bc;
 
-    public function print(l, f) {
+    public function initialize() {
+        dateFont = WatchUi.loadResource(Rez.Fonts.id_font_font);
+    }
+
+    public function print(l) {
         if (l.success()) {
             setColors();
             var d = Toybox.Time.Gregorian.info(Toybox.System.Time.now(), Toybox.System.Time.FORMAT_SHORT);
@@ -12,7 +17,7 @@ class DatePrinter {
             c.setColor(fc, bc);
             c.drawText(l.center()[0]
                      , l.center()[1] + l.center()[1] / 6
-                     , f
+                     , dateFont
                      , s
                      , Toybox.Graphics.TEXT_JUSTIFY_CENTER);
         }

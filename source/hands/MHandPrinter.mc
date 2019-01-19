@@ -7,14 +7,11 @@ class MHandPrinter {
     private var fc;
     private var bc;
 
-    public function init(arg) {
-        clockTime = arg;
-        penWidth = 1;
-        w = 12;
-        arborWidth = 12;
-    }
-
     public function print(l) {
+        clockTime = System.getClockTime();
+        penWidth = 3;
+        w = 12;
+        arborWidth = 13;
         setColors();
         printHand(l);
     }
@@ -35,7 +32,7 @@ class MHandPrinter {
             var angle = (clockTime.min / 30.0) * Math.PI;
             var pts = generateCoordinates(l.center()
                                         , angle
-                                        , (l.size()[0] / 2) - 18
+                                        , (l.size()[0] / 2) - 9
                                         , -(Math.sqrt(Math.pow(arborWidth, 2) - Math.pow(w / 2 , 2)))
                                         , w);
             c.setColor(fc, bc);
@@ -50,9 +47,9 @@ class MHandPrinter {
     private function generateCoordinates(center, angle, handLength, tailLength, handWidth) {
         var coords = [
             [ -(handWidth / 2), tailLength ],
-            [ -(handWidth / 2), -(handLength * 4 / 5) ],
+            [ -(handWidth / 2), -(handLength * 6 / 7) ],
             [ 0, -(handLength) ],
-            [ handWidth / 2, -(handLength * 4 / 5) ],
+            [ handWidth / 2, -(handLength * 6 / 7) ],
             [ handWidth / 2, tailLength ]
         ];
 

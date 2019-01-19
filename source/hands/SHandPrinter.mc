@@ -14,8 +14,8 @@ class SHandPrinter {
         penWidth = 3;
     }
 
-    public function print(dc, clockTime) {
-        dc.setColor(Application.getApp().getProperty("SecondHandColor"), Graphics.COLOR_TRANSPARENT);
+    public function print(dc) {
+        var clockTime = System.getClockTime();
 
         var s = clockTime.sec;
         var position = [
@@ -26,6 +26,7 @@ class SHandPrinter {
             [ c[0], c[1] ]
         ];
         position = fillPosition(position, s);
+        dc.setColor(Application.getApp().getProperty("SecondHandColor"), Graphics.COLOR_TRANSPARENT);
         dc.setPenWidth(penWidth);
         for (var i = 0; i < 5; ++i) {
             if (c[0] != position[i][0] && c[1] != position[i][1]) {
@@ -34,8 +35,8 @@ class SHandPrinter {
         }
     }
 
-    public function printWithClip(dc, clockTime) {
-        dc.setColor(Application.getApp().getProperty("SecondHandColor"), Graphics.COLOR_TRANSPARENT);
+    public function printWithClip(dc) {
+        var clockTime = System.getClockTime();
 
         var s = clockTime.sec;
         var position = [
@@ -53,14 +54,7 @@ class SHandPrinter {
             clipRect[1][0] - clipRect[0][0] + (dotWidth * 4) + 1,
             clipRect[1][1] - clipRect[0][1] + (dotWidth * 4) + 1
         );
-        /*
-        dc.drawRectangle(
-            clipRect[0][0] - (dotWidth * 2) - 1,
-            clipRect[0][1] - (dotWidth * 2) - 1,
-            clipRect[1][0] - clipRect[0][0] + (dotWidth * 4) + 1,
-            clipRect[1][1] - clipRect[0][1] + (dotWidth * 4) + 1
-        );
-        */
+        dc.setColor(Application.getApp().getProperty("SecondHandColor"), Graphics.COLOR_TRANSPARENT);
         dc.setPenWidth(penWidth);
         for (var i = 0; i < 5; ++i) {
             if (c[0] != position[i][0] && c[1] != position[i][1]) {
@@ -71,19 +65,6 @@ class SHandPrinter {
 
     private function fillPosition(p, s) {
         var radius = (w / 2) - 12;
-        /*
-        for (var i = s; i >= 0; --i) {
-            if (4 < (s - i)) {
-                break;
-            }
-            var angle = (i / 30.0) * Math.PI;
-            var cos = Math.cos(angle);
-            var sin = Math.sin(angle);
-            var x = 0.5 - (-(radius) * sin);
-            var y = 0.5 + (-(radius) * cos);
-            p[s - i] = [ c[0] + x, c[1] + y ];
-        }
-        */
         for (var i = s; i > (s - 5); --i) {
             var angle = (i / 30.0) * Math.PI;
             var cos = Math.cos(angle);

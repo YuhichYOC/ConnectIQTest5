@@ -1,5 +1,6 @@
 <resources>
     <fonts>
-        <font id="id_font_font" filename="fonts/font.fnt" filter="0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-;:[] " />
+        <font id="id_font_dial" filename="fonts/dial.fnt" filter="d" />
+        <font id="id_font_font" filename="fonts/font.fnt" filter="0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-:;[]% " />
     </fonts>
 </resources>
