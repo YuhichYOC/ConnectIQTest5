@@ -32,29 +32,50 @@ class IconPrinter {
     }
 
     private function toString() {
-        return batteryToString() + btToString();
+        return batteryToString() + btToString() + notifyToString() + dndToString();
     }
 
     private function batteryToString() {
         var b = System.getSystemStats().battery;
         if (10 >= b) {
-            return "0";
+            return "a";
         } else if (25 >= b) {
-            return "1";
+            return "b";
         } else if (50 >= b) {
-            return "2";
+            return "c";
         } else if (75 >= b) {
-            return "3";
+            return "d";
         } else {
-            return "4";
+            return "e";
         }
     }
 
     private function btToString() {
         if (System.getDeviceSettings().phoneConnected) {
-            return "b";
+            return "f";
         } else {
-            return " ";
+            return "";
+        }
+    }
+
+    private function notifyToString() {
+        var n = System.getDeviceSettings().notificationCount;
+        if (3 <= n) {
+            return "j";
+        } else if (2 <= n) {
+            return "i";
+        } else if (1 <= n) {
+            return "h";
+        } else {
+            return "g";
+        }
+    }
+
+    private function dndToString() {
+        if (System.getDeviceSettings().doNotDisturb) {
+            return "k";
+        } else {
+            return "";
         }
     }
 
