@@ -12,6 +12,7 @@ class Printer {
     private var mHandPrinter;
     private var datePrinter;
     private var sHandPrinter;
+    private var iconPrinter;
 
     public function AllowPartial(arg) {
         partialAllowed = arg;
@@ -36,6 +37,7 @@ class Printer {
         hHandPrinter.print(l);
         mHandPrinter.print(l);
         datePrinter.print(l);
+        iconPrinter.print(l);
         if (l.success()) {
             argDc.drawBitmap(0, 0, l.buffer());
             if (partialAllowed) {
@@ -65,6 +67,7 @@ class Printer {
         hHandPrinter = new HHandPrinter();
         mHandPrinter = new MHandPrinter();
         datePrinter = new DatePrinter();
+        iconPrinter = new IconPrinter();
     }
 
 }

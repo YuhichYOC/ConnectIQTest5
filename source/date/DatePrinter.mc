@@ -16,7 +16,7 @@ class DatePrinter {
             var c = l.context();
             c.setColor(fc, bc);
             c.drawText(l.center()[0]
-                     , l.center()[1] + l.center()[1] / 6
+                     , l.center()[1] + l.center()[1] / 3
                      , dateFont
                      , s
                      , Toybox.Graphics.TEXT_JUSTIFY_CENTER);

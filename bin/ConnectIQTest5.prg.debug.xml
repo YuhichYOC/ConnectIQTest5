@@ -1,516 +1,434 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
     <pcToLineNum>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\dial\\DialPrinter.mc" id="3" lineNum="7" pc="268435456" symbol="initialize"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\dial\\DialPrinter.mc" id="3" lineNum="8" pc="268435460" symbol="initialize"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\dial\\DialPrinter.mc" id="4" lineNum="11" pc="268435506" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\dial\\DialPrinter.mc" id="4" lineNum="12" pc="268435510" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\dial\\DialPrinter.mc" id="4" lineNum="13" pc="268435522" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\dial\\DialPrinter.mc" id="4" lineNum="14" pc="268435536" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\dial\\DialPrinter.mc" id="4" lineNum="15" pc="268435548" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\date\\DatePrinter.mc" id="10" lineNum="7" pc="268436072" symbol="initialize"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\date\\DatePrinter.mc" id="10" lineNum="8" pc="268436076" symbol="initialize"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\date\\DatePrinter.mc" id="11" lineNum="11" pc="268436122" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\date\\DatePrinter.mc" id="11" lineNum="12" pc="268436126" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\date\\DatePrinter.mc" id="11" lineNum="13" pc="268436140" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\date\\DatePrinter.mc" id="11" lineNum="14" pc="268436152" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\date\\DatePrinter.mc" id="11" lineNum="15" pc="268436238" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\date\\DatePrinter.mc" id="11" lineNum="16" pc="268436336" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\date\\DatePrinter.mc" id="11" lineNum="17" pc="268436349" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\date\\DatePrinter.mc" id="11" lineNum="18" pc="268436377" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\icons\\IconPrinter.mc" id="16" lineNum="9" pc="268436979" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\icons\\IconPrinter.mc" id="16" lineNum="10" pc="268436983" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\icons\\IconPrinter.mc" id="16" lineNum="11" pc="268436995" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\HHandPrinter.mc" id="19" lineNum="10" pc="268437165" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\HHandPrinter.mc" id="19" lineNum="11" pc="268437169" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\HHandPrinter.mc" id="19" lineNum="12" pc="268437194" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\HHandPrinter.mc" id="19" lineNum="13" pc="268437207" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\HHandPrinter.mc" id="19" lineNum="14" pc="268437220" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\HHandPrinter.mc" id="19" lineNum="15" pc="268437233" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\HHandPrinter.mc" id="19" lineNum="16" pc="268437245" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\icons\\BtIcon.mc" id="24" lineNum="3" pc="268438484" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\icons\\BtIcon.mc" id="24" lineNum="4" pc="268438488" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\icons\\BtIcon.mc" id="24" lineNum="5" pc="268438531" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\icons\\BtIcon.mc" id="24" lineNum="6" pc="268438544" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\icons\\BtIcon.mc" id="24" lineNum="7" pc="268438560" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="26" lineNum="12" pc="268438664" symbol="initialize"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="26" lineNum="13" pc="268438668" symbol="initialize"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="26" lineNum="14" pc="268438686" symbol="initialize"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="27" lineNum="17" pc="268438721" symbol="onLayout"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="27" lineNum="18" pc="268438725" symbol="onLayout"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="27" lineNum="19" pc="268438725" symbol="onLayout"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="27" lineNum="21" pc="268438767" symbol="onLayout"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="27" lineNum="22" pc="268438794" symbol="onLayout"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="28" lineNum="26" pc="268438819" symbol="onShow"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="29" lineNum="29" pc="268438824" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="29" lineNum="30" pc="268438828" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="29" lineNum="31" pc="268438828" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="29" lineNum="32" pc="268438854" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="29" lineNum="34" pc="268438884" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="29" lineNum="35" pc="268438911" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="30" lineNum="39" pc="268438936" symbol="onPartialUpdate"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="30" lineNum="40" pc="268438940" symbol="onPartialUpdate"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="30" lineNum="41" pc="268438940" symbol="onPartialUpdate"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="30" lineNum="42" pc="268438966" symbol="onPartialUpdate"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="30" lineNum="44" pc="268438996" symbol="onPartialUpdate"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="30" lineNum="45" pc="268439023" symbol="onPartialUpdate"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="31" lineNum="49" pc="268439048" symbol="onHide"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="32" lineNum="52" pc="268439053" symbol="onExitSleep"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="32" lineNum="53" pc="268439057" symbol="onExitSleep"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="33" lineNum="56" pc="268439078" symbol="onEnterSleep"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="33" lineNum="57" pc="268439082" symbol="onEnterSleep"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="35" lineNum="64" pc="268439103" symbol="initialize"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="35" lineNum="65" pc="268439107" symbol="initialize"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="36" lineNum="68" pc="268439126" symbol="onPowerBudgetExceeded"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="36" lineNum="69" pc="268439130" symbol="onPowerBudgetExceeded"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="36" lineNum="70" pc="268439160" symbol="onPowerBudgetExceeded"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="36" lineNum="71" pc="268439190" symbol="onPowerBudgetExceeded"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5App.mc" id="38" lineNum="5" pc="268439201" symbol="initialize"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5App.mc" id="38" lineNum="6" pc="268439205" symbol="initialize"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5App.mc" id="39" lineNum="9" pc="268439224" symbol="onStart"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5App.mc" id="40" lineNum="12" pc="268439229" symbol="onStop"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5App.mc" id="41" lineNum="15" pc="268439234" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5App.mc" id="41" lineNum="16" pc="268439238" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5App.mc" id="41" lineNum="17" pc="268439261" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5App.mc" id="41" lineNum="19" pc="268439331" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\icons\\BattIcon.mc" id="43" lineNum="3" pc="268439369" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\icons\\BattIcon.mc" id="43" lineNum="4" pc="268439373" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\icons\\BattIcon.mc" id="43" lineNum="5" pc="268439387" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="45" lineNum="9" pc="268439419" symbol="initialize"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="45" lineNum="10" pc="268439423" symbol="initialize"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="45" lineNum="11" pc="268439439" symbol="initialize"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="45" lineNum="12" pc="268439455" symbol="initialize"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="45" lineNum="13" pc="268439465" symbol="initialize"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="45" lineNum="14" pc="268439478" symbol="initialize"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="46" lineNum="17" pc="268439492" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="46" lineNum="18" pc="268439496" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="46" lineNum="20" pc="268439515" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="46" lineNum="21" pc="268439525" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="46" lineNum="28" pc="268439823" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="46" lineNum="29" pc="268439840" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="46" lineNum="30" pc="268439897" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="46" lineNum="31" pc="268439917" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="46" lineNum="32" pc="268439935" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="46" lineNum="33" pc="268439996" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="47" lineNum="38" pc="268440055" symbol="printWithClip"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="47" lineNum="39" pc="268440059" symbol="printWithClip"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="47" lineNum="41" pc="268440078" symbol="printWithClip"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="47" lineNum="42" pc="268440088" symbol="printWithClip"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="47" lineNum="49" pc="268440386" symbol="printWithClip"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="47" lineNum="50" pc="268440403" symbol="printWithClip"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="47" lineNum="51" pc="268440418" symbol="printWithClip"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="47" lineNum="57" pc="268440600" symbol="printWithClip"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="47" lineNum="58" pc="268440657" symbol="printWithClip"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="47" lineNum="59" pc="268440677" symbol="printWithClip"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="47" lineNum="60" pc="268440695" symbol="printWithClip"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="47" lineNum="61" pc="268440756" symbol="printWithClip"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\MHandPrinter.mc" id="51" lineNum="10" pc="268441435" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\MHandPrinter.mc" id="51" lineNum="11" pc="268441439" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\MHandPrinter.mc" id="51" lineNum="12" pc="268441464" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\MHandPrinter.mc" id="51" lineNum="13" pc="268441477" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\MHandPrinter.mc" id="51" lineNum="14" pc="268441490" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\MHandPrinter.mc" id="51" lineNum="15" pc="268441503" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\MHandPrinter.mc" id="51" lineNum="16" pc="268441515" symbol="print"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="56" lineNum="15" pc="268442685" symbol="tryAlloc"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="56" lineNum="16" pc="268442689" symbol="tryAlloc"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="56" lineNum="17" pc="268442699" symbol="tryAlloc"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="56" lineNum="18" pc="268442722" symbol="tryAlloc"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="56" lineNum="22" pc="268442800" symbol="tryAlloc"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="56" lineNum="23" pc="268442810" symbol="tryAlloc"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="56" lineNum="24" pc="268442844" symbol="tryAlloc"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="56" lineNum="25" pc="268442878" symbol="tryAlloc"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="57" lineNum="29" pc="268442940" symbol="tryAllocWithPalette"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="57" lineNum="30" pc="268442944" symbol="tryAllocWithPalette"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="57" lineNum="31" pc="268442954" symbol="tryAllocWithPalette"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="57" lineNum="32" pc="268442977" symbol="tryAllocWithPalette"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="57" lineNum="37" pc="268443065" symbol="tryAllocWithPalette"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="57" lineNum="38" pc="268443075" symbol="tryAllocWithPalette"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="57" lineNum="39" pc="268443109" symbol="tryAllocWithPalette"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="57" lineNum="40" pc="268443143" symbol="tryAllocWithPalette"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="58" lineNum="44" pc="268443205" symbol="tryAllocWithSize"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="58" lineNum="45" pc="268443209" symbol="tryAllocWithSize"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="58" lineNum="46" pc="268443219" symbol="tryAllocWithSize"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="58" lineNum="47" pc="268443242" symbol="tryAllocWithSize"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="58" lineNum="51" pc="268443314" symbol="tryAllocWithSize"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="58" lineNum="52" pc="268443324" symbol="tryAllocWithSize"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="58" lineNum="53" pc="268443358" symbol="tryAllocWithSize"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="58" lineNum="54" pc="268443392" symbol="tryAllocWithSize"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="59" lineNum="58" pc="268443454" symbol="buffer"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="59" lineNum="59" pc="268443458" symbol="buffer"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="60" lineNum="62" pc="268443468" symbol="success"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="60" lineNum="63" pc="268443472" symbol="success"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="61" lineNum="66" pc="268443482" symbol="context"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="61" lineNum="67" pc="268443486" symbol="context"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="62" lineNum="70" pc="268443505" symbol="size"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="62" lineNum="71" pc="268443509" symbol="size"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="62" lineNum="72" pc="268443549" symbol="size"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="63" lineNum="75" pc="268443553" symbol="center"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="63" lineNum="76" pc="268443557" symbol="center"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="65" lineNum="16" pc="268443570" symbol="AllowPartial"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="65" lineNum="17" pc="268443574" symbol="AllowPartial"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="66" lineNum="20" pc="268443585" symbol="Awaken"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="66" lineNum="21" pc="268443589" symbol="Awaken"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="67" lineNum="24" pc="268443600" symbol="initialize"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="67" lineNum="25" pc="268443604" symbol="initialize"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="67" lineNum="26" pc="268443614" symbol="initialize"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="67" lineNum="27" pc="268443628" symbol="initialize"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="67" lineNum="28" pc="268443640" symbol="initialize"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="67" lineNum="29" pc="268443660" symbol="initialize"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="68" lineNum="33" pc="268443728" symbol="run"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="68" lineNum="34" pc="268443732" symbol="run"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="68" lineNum="35" pc="268443744" symbol="run"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="68" lineNum="36" pc="268443770" symbol="run"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="68" lineNum="37" pc="268443796" symbol="run"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="68" lineNum="38" pc="268443822" symbol="run"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="68" lineNum="39" pc="268443848" symbol="run"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="68" lineNum="40" pc="268443868" symbol="run"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="68" lineNum="41" pc="268443907" symbol="run"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="68" lineNum="42" pc="268443918" symbol="run"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="68" lineNum="43" pc="268443941" symbol="run"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="68" lineNum="44" pc="268443952" symbol="run"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="69" lineNum="49" pc="268443979" symbol="runPartial"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="69" lineNum="50" pc="268443983" symbol="runPartial"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="69" lineNum="51" pc="268443994" symbol="runPartial"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="69" lineNum="52" pc="268444014" symbol="runPartial"/>
-        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="69" lineNum="53" pc="268444053" symbol="runPartial"/>
-        <entry filename="Rez" id="78" lineNum="39" pc="268444268" symbol="WatchFace"/>
-        <entry filename="Rez" id="78" lineNum="43" pc="268444280" symbol="WatchFace"/>
-        <entry filename="Rez" id="78" lineNum="44" pc="268444451" symbol="WatchFace"/>
-        <entry filename="Rez" id="78" lineNum="45" pc="268444484" symbol="WatchFace"/>
-        <entry filename="Rez" id="78" lineNum="46" pc="268444536" symbol="WatchFace"/>
-        <entry filename="Rez" id="78" lineNum="49" pc="268444582" symbol="WatchFace"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="3" lineNum="12" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="3" lineNum="13" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="3" lineNum="14" pc="268435478" symbol="initialize"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="4" lineNum="17" pc="268435513" symbol="onLayout"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="4" lineNum="18" pc="268435517" symbol="onLayout"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="4" lineNum="19" pc="268435517" symbol="onLayout"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="4" lineNum="21" pc="268435559" symbol="onLayout"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="4" lineNum="22" pc="268435586" symbol="onLayout"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="5" lineNum="26" pc="268435611" symbol="onShow"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="6" lineNum="29" pc="268435616" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="6" lineNum="30" pc="268435620" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="6" lineNum="31" pc="268435620" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="6" lineNum="32" pc="268435646" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="6" lineNum="34" pc="268435676" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="6" lineNum="35" pc="268435703" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="7" lineNum="39" pc="268435728" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="7" lineNum="40" pc="268435732" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="7" lineNum="41" pc="268435732" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="7" lineNum="42" pc="268435758" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="7" lineNum="44" pc="268435788" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="7" lineNum="45" pc="268435815" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="8" lineNum="49" pc="268435840" symbol="onHide"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="9" lineNum="52" pc="268435845" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="9" lineNum="53" pc="268435849" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="10" lineNum="56" pc="268435870" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="10" lineNum="57" pc="268435874" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="12" lineNum="64" pc="268435895" symbol="initialize"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="12" lineNum="65" pc="268435899" symbol="initialize"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="13" lineNum="68" pc="268435918" symbol="onPowerBudgetExceeded"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="13" lineNum="69" pc="268435922" symbol="onPowerBudgetExceeded"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="13" lineNum="70" pc="268435952" symbol="onPowerBudgetExceeded"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5View.mc" id="13" lineNum="71" pc="268435982" symbol="onPowerBudgetExceeded"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\dial\\DialPrinter.mc" id="15" lineNum="7" pc="268435993" symbol="initialize"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\dial\\DialPrinter.mc" id="15" lineNum="8" pc="268435997" symbol="initialize"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\dial\\DialPrinter.mc" id="16" lineNum="11" pc="268436043" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\dial\\DialPrinter.mc" id="16" lineNum="12" pc="268436047" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\dial\\DialPrinter.mc" id="16" lineNum="13" pc="268436059" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\dial\\DialPrinter.mc" id="16" lineNum="14" pc="268436073" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\dial\\DialPrinter.mc" id="16" lineNum="15" pc="268436085" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5App.mc" id="22" lineNum="5" pc="268436609" symbol="initialize"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5App.mc" id="22" lineNum="6" pc="268436613" symbol="initialize"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5App.mc" id="23" lineNum="9" pc="268436632" symbol="onStart"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5App.mc" id="24" lineNum="12" pc="268436637" symbol="onStop"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5App.mc" id="25" lineNum="15" pc="268436642" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5App.mc" id="25" lineNum="16" pc="268436646" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5App.mc" id="25" lineNum="17" pc="268436669" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\ConnectIQTest5App.mc" id="25" lineNum="19" pc="268436739" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\date\\DatePrinter.mc" id="27" lineNum="7" pc="268436777" symbol="initialize"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\date\\DatePrinter.mc" id="27" lineNum="8" pc="268436781" symbol="initialize"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\date\\DatePrinter.mc" id="28" lineNum="11" pc="268436827" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\date\\DatePrinter.mc" id="28" lineNum="12" pc="268436831" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\date\\DatePrinter.mc" id="28" lineNum="13" pc="268436845" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\date\\DatePrinter.mc" id="28" lineNum="14" pc="268436857" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\date\\DatePrinter.mc" id="28" lineNum="15" pc="268436943" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\date\\DatePrinter.mc" id="28" lineNum="16" pc="268437041" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\date\\DatePrinter.mc" id="28" lineNum="17" pc="268437054" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\date\\DatePrinter.mc" id="28" lineNum="18" pc="268437082" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\icons\\IconPrinter.mc" id="33" lineNum="7" pc="268437684" symbol="initialize"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\icons\\IconPrinter.mc" id="33" lineNum="8" pc="268437688" symbol="initialize"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\icons\\IconPrinter.mc" id="34" lineNum="11" pc="268437734" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\icons\\IconPrinter.mc" id="34" lineNum="12" pc="268437738" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\icons\\IconPrinter.mc" id="34" lineNum="13" pc="268437752" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\icons\\IconPrinter.mc" id="34" lineNum="14" pc="268437764" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\icons\\IconPrinter.mc" id="34" lineNum="15" pc="268437777" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\icons\\IconPrinter.mc" id="34" lineNum="16" pc="268437805" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\HHandPrinter.mc" id="40" lineNum="10" pc="268438245" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\HHandPrinter.mc" id="40" lineNum="11" pc="268438249" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\HHandPrinter.mc" id="40" lineNum="12" pc="268438274" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\HHandPrinter.mc" id="40" lineNum="13" pc="268438287" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\HHandPrinter.mc" id="40" lineNum="14" pc="268438300" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\HHandPrinter.mc" id="40" lineNum="15" pc="268438313" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\HHandPrinter.mc" id="40" lineNum="16" pc="268438325" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="45" lineNum="9" pc="268439564" symbol="initialize"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="45" lineNum="10" pc="268439568" symbol="initialize"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="45" lineNum="11" pc="268439584" symbol="initialize"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="45" lineNum="12" pc="268439600" symbol="initialize"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="45" lineNum="13" pc="268439610" symbol="initialize"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="45" lineNum="14" pc="268439623" symbol="initialize"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="46" lineNum="17" pc="268439637" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="46" lineNum="18" pc="268439641" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="46" lineNum="20" pc="268439660" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="46" lineNum="21" pc="268439670" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="46" lineNum="28" pc="268439968" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="46" lineNum="29" pc="268439985" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="46" lineNum="30" pc="268440042" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="46" lineNum="31" pc="268440062" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="46" lineNum="32" pc="268440080" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="46" lineNum="33" pc="268440141" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="47" lineNum="38" pc="268440200" symbol="printWithClip"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="47" lineNum="39" pc="268440204" symbol="printWithClip"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="47" lineNum="41" pc="268440223" symbol="printWithClip"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="47" lineNum="42" pc="268440233" symbol="printWithClip"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="47" lineNum="49" pc="268440531" symbol="printWithClip"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="47" lineNum="50" pc="268440548" symbol="printWithClip"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="47" lineNum="51" pc="268440563" symbol="printWithClip"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="47" lineNum="57" pc="268440745" symbol="printWithClip"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="47" lineNum="58" pc="268440802" symbol="printWithClip"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="47" lineNum="59" pc="268440822" symbol="printWithClip"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="47" lineNum="60" pc="268440840" symbol="printWithClip"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\SHandPrinter.mc" id="47" lineNum="61" pc="268440901" symbol="printWithClip"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\MHandPrinter.mc" id="51" lineNum="10" pc="268441580" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\MHandPrinter.mc" id="51" lineNum="11" pc="268441584" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\MHandPrinter.mc" id="51" lineNum="12" pc="268441609" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\MHandPrinter.mc" id="51" lineNum="13" pc="268441622" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\MHandPrinter.mc" id="51" lineNum="14" pc="268441635" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\MHandPrinter.mc" id="51" lineNum="15" pc="268441648" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\hands\\MHandPrinter.mc" id="51" lineNum="16" pc="268441660" symbol="print"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="56" lineNum="15" pc="268442830" symbol="tryAlloc"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="56" lineNum="16" pc="268442834" symbol="tryAlloc"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="56" lineNum="17" pc="268442844" symbol="tryAlloc"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="56" lineNum="18" pc="268442867" symbol="tryAlloc"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="56" lineNum="22" pc="268442945" symbol="tryAlloc"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="56" lineNum="23" pc="268442955" symbol="tryAlloc"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="56" lineNum="24" pc="268442989" symbol="tryAlloc"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="56" lineNum="25" pc="268443023" symbol="tryAlloc"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="57" lineNum="29" pc="268443085" symbol="tryAllocWithPalette"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="57" lineNum="30" pc="268443089" symbol="tryAllocWithPalette"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="57" lineNum="31" pc="268443099" symbol="tryAllocWithPalette"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="57" lineNum="32" pc="268443122" symbol="tryAllocWithPalette"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="57" lineNum="37" pc="268443210" symbol="tryAllocWithPalette"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="57" lineNum="38" pc="268443220" symbol="tryAllocWithPalette"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="57" lineNum="39" pc="268443254" symbol="tryAllocWithPalette"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="57" lineNum="40" pc="268443288" symbol="tryAllocWithPalette"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="58" lineNum="44" pc="268443350" symbol="tryAllocWithSize"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="58" lineNum="45" pc="268443354" symbol="tryAllocWithSize"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="58" lineNum="46" pc="268443364" symbol="tryAllocWithSize"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="58" lineNum="47" pc="268443387" symbol="tryAllocWithSize"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="58" lineNum="51" pc="268443459" symbol="tryAllocWithSize"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="58" lineNum="52" pc="268443469" symbol="tryAllocWithSize"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="58" lineNum="53" pc="268443503" symbol="tryAllocWithSize"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="58" lineNum="54" pc="268443537" symbol="tryAllocWithSize"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="59" lineNum="58" pc="268443599" symbol="buffer"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="59" lineNum="59" pc="268443603" symbol="buffer"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="60" lineNum="62" pc="268443613" symbol="success"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="60" lineNum="63" pc="268443617" symbol="success"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="61" lineNum="66" pc="268443627" symbol="context"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="61" lineNum="67" pc="268443631" symbol="context"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="62" lineNum="70" pc="268443650" symbol="size"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="62" lineNum="71" pc="268443654" symbol="size"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="62" lineNum="72" pc="268443694" symbol="size"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="63" lineNum="75" pc="268443698" symbol="center"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\layer\\BBLayer.mc" id="63" lineNum="76" pc="268443702" symbol="center"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="65" lineNum="17" pc="268443715" symbol="AllowPartial"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="65" lineNum="18" pc="268443719" symbol="AllowPartial"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="66" lineNum="21" pc="268443730" symbol="Awaken"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="66" lineNum="22" pc="268443734" symbol="Awaken"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="67" lineNum="25" pc="268443745" symbol="initialize"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="67" lineNum="26" pc="268443749" symbol="initialize"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="67" lineNum="27" pc="268443759" symbol="initialize"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="67" lineNum="28" pc="268443773" symbol="initialize"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="67" lineNum="29" pc="268443785" symbol="initialize"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="67" lineNum="30" pc="268443805" symbol="initialize"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="68" lineNum="34" pc="268443873" symbol="run"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="68" lineNum="35" pc="268443877" symbol="run"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="68" lineNum="36" pc="268443889" symbol="run"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="68" lineNum="37" pc="268443915" symbol="run"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="68" lineNum="38" pc="268443941" symbol="run"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="68" lineNum="39" pc="268443967" symbol="run"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="68" lineNum="40" pc="268443993" symbol="run"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="68" lineNum="41" pc="268444019" symbol="run"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="68" lineNum="42" pc="268444039" symbol="run"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="68" lineNum="43" pc="268444078" symbol="run"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="68" lineNum="44" pc="268444089" symbol="run"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="68" lineNum="45" pc="268444112" symbol="run"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="68" lineNum="46" pc="268444123" symbol="run"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="69" lineNum="51" pc="268444150" symbol="runPartial"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="69" lineNum="52" pc="268444154" symbol="runPartial"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="69" lineNum="53" pc="268444165" symbol="runPartial"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="69" lineNum="54" pc="268444185" symbol="runPartial"/>
+        <entry filename="C:\\Users\\xiong\\workspace\\jee\\ConnectIQTest5\\source\\Printer.mc" id="69" lineNum="55" pc="268444224" symbol="runPartial"/>
+        <entry filename="Rez" id="78" lineNum="40" pc="268444469" symbol="WatchFace"/>
+        <entry filename="Rez" id="78" lineNum="44" pc="268444481" symbol="WatchFace"/>
+        <entry filename="Rez" id="78" lineNum="45" pc="268444652" symbol="WatchFace"/>
+        <entry filename="Rez" id="78" lineNum="46" pc="268444685" symbol="WatchFace"/>
+        <entry filename="Rez" id="78" lineNum="47" pc="268444737" symbol="WatchFace"/>
+        <entry filename="Rez" id="78" lineNum="50" pc="268444783" symbol="WatchFace"/>
     </pcToLineNum>
     <symbolTable>
         <entry id="8388644" module="true" symbol="System"/>
-        <entry field="true" id="40" symbol="MinutesShowSecondHandTitle"/>
-        <entry field="true" id="36" symbol="id_font_font"/>
-        <entry field="true" id="87" symbol="&lt;globals_Printer_&lt;&gt;mHandPrinter&gt;"/>
+        <entry field="true" id="39" symbol="MinutesShowSecondHandTitle"/>
+        <entry field="true" id="34" symbol="id_font_font"/>
+        <entry field="true" id="88" symbol="&lt;globals_Printer_&lt;&gt;mHandPrinter&gt;"/>
         <entry id="8389124" method="true" symbol="onUpdate"/>
-        <entry id="61" method="true" symbol="tryAllocWithPalette"/>
+        <entry id="60" method="true" symbol="tryAllocWithPalette"/>
+        <entry id="79" method="true" symbol="&lt;globals_IconPrinter_&lt;&gt;toString&gt;"/>
         <entry id="8389349" symbol="justification"/>
-        <entry field="true" id="23" symbol="&lt;globals_HHandPrinter_&lt;&gt;clockTime&gt;"/>
-        <entry field="true" id="25" symbol="&lt;globals_HHandPrinter_&lt;&gt;w&gt;"/>
+        <entry field="true" id="21" symbol="&lt;globals_HHandPrinter_&lt;&gt;clockTime&gt;"/>
+        <entry field="true" id="23" symbol="&lt;globals_HHandPrinter_&lt;&gt;w&gt;"/>
         <entry id="8390097" method="true" symbol="onPartialUpdate"/>
-        <entry field="true" id="26" symbol="&lt;globals_HHandPrinter_&lt;&gt;arborWidth&gt;"/>
-        <entry id="63" method="true" symbol="buffer"/>
-        <entry field="true" id="89" symbol="&lt;globals_Printer_&lt;&gt;sHandPrinter&gt;"/>
-        <entry field="true" id="37" symbol="ColorBlue"/>
+        <entry field="true" id="24" symbol="&lt;globals_HHandPrinter_&lt;&gt;arborWidth&gt;"/>
+        <entry id="62" method="true" symbol="buffer"/>
+        <entry field="true" id="90" symbol="&lt;globals_Printer_&lt;&gt;sHandPrinter&gt;"/>
+        <entry field="true" id="36" symbol="ColorBlue"/>
         <entry id="8388712" method="true" symbol="print"/>
-        <entry id="92" method="true" symbol="run"/>
-        <entry field="true" id="71" symbol="&lt;globals_MHandPrinter_&lt;&gt;bc&gt;"/>
-        <entry field="true" id="81" symbol="&lt;globals_Printer_&lt;&gt;partialAllowed&gt;"/>
-        <entry id="13" object="true" symbol="BtIcon"/>
-        <entry id="91" method="true" symbol="Awaken"/>
+        <entry id="94" method="true" symbol="run"/>
+        <entry field="true" id="70" symbol="&lt;globals_MHandPrinter_&lt;&gt;bc&gt;"/>
+        <entry field="true" id="82" symbol="&lt;globals_Printer_&lt;&gt;partialAllowed&gt;"/>
+        <entry id="93" method="true" symbol="Awaken"/>
+        <entry id="80" method="true" symbol="&lt;globals_IconPrinter_&lt;&gt;batteryToString&gt;"/>
         <entry field="true" id="8388611" module="true" symbol="Toybox"/>
-        <entry field="true" id="43" symbol="NumberTwo"/>
-        <entry field="true" id="28" symbol="&lt;globals_HHandPrinter_&lt;&gt;bc&gt;"/>
-        <entry id="30" method="true" symbol="&lt;globals_HHandPrinter_&lt;&gt;printHand&gt;"/>
-        <entry id="73" method="true" symbol="&lt;globals_MHandPrinter_&lt;&gt;printHand&gt;"/>
-        <entry field="true" id="57" symbol="&lt;globals_BBLayer_&lt;&gt;w&gt;"/>
-        <entry field="true" id="103" symbol="&lt;globals_DatePrinter_&lt;&gt;dateFont&gt;"/>
-        <entry id="10" object="true" symbol="DatePrinter"/>
+        <entry field="true" id="42" symbol="NumberTwo"/>
+        <entry field="true" id="26" symbol="&lt;globals_HHandPrinter_&lt;&gt;bc&gt;"/>
+        <entry id="28" method="true" symbol="&lt;globals_HHandPrinter_&lt;&gt;printHand&gt;"/>
+        <entry id="72" method="true" symbol="&lt;globals_MHandPrinter_&lt;&gt;printHand&gt;"/>
+        <entry field="true" id="56" symbol="&lt;globals_BBLayer_&lt;&gt;w&gt;"/>
+        <entry field="true" id="105" symbol="&lt;globals_DatePrinter_&lt;&gt;dateFont&gt;"/>
+        <entry id="14" object="true" symbol="DatePrinter"/>
         <entry id="8388770" module="true" object="true" symbol="Strings"/>
-        <entry field="true" id="82" symbol="&lt;globals_Printer_&lt;&gt;awake&gt;"/>
-        <entry field="true" id="53" symbol="ColorGreen"/>
-        <entry id="101" method="true" symbol="&lt;globals_DialPrinter_&lt;&gt;setColorsToPrint&gt;"/>
-        <entry field="true" id="56" symbol="&lt;globals_BBLayer_&lt;&gt;s&gt;"/>
-        <entry field="true" id="44" symbol="ColorYellow"/>
-        <entry id="80" method="true" symbol="&lt;globals_IconPrinter_&lt;&gt;setColors&gt;"/>
-        <entry field="true" id="68" symbol="&lt;globals_MHandPrinter_&lt;&gt;w&gt;"/>
-        <entry field="true" id="88" symbol="&lt;globals_Printer_&lt;&gt;datePrinter&gt;"/>
-        <entry field="true" id="52" symbol="ColorWhite"/>
+        <entry field="true" id="83" symbol="&lt;globals_Printer_&lt;&gt;awake&gt;"/>
+        <entry field="true" id="52" symbol="ColorGreen"/>
+        <entry id="103" method="true" symbol="&lt;globals_DialPrinter_&lt;&gt;setColorsToPrint&gt;"/>
+        <entry field="true" id="55" symbol="&lt;globals_BBLayer_&lt;&gt;s&gt;"/>
+        <entry field="true" id="43" symbol="ColorYellow"/>
+        <entry id="78" method="true" symbol="&lt;globals_IconPrinter_&lt;&gt;setColors&gt;"/>
+        <entry field="true" id="67" symbol="&lt;globals_MHandPrinter_&lt;&gt;w&gt;"/>
+        <entry field="true" id="89" symbol="&lt;globals_Printer_&lt;&gt;datePrinter&gt;"/>
+        <entry field="true" id="51" symbol="ColorWhite"/>
         <entry id="8389280" method="true" symbol="getInitialView"/>
         <entry id="8389377" method="true" symbol="onExitSleep"/>
-        <entry field="true" id="85" symbol="&lt;globals_Printer_&lt;&gt;dialPrinter&gt;"/>
+        <entry field="true" id="86" symbol="&lt;globals_Printer_&lt;&gt;dialPrinter&gt;"/>
         <entry id="8390098" method="true" symbol="onPowerBudgetExceeded"/>
-        <entry field="true" id="104" symbol="&lt;globals_DatePrinter_&lt;&gt;fc&gt;"/>
+        <entry field="true" id="106" symbol="&lt;globals_DatePrinter_&lt;&gt;fc&gt;"/>
         <entry id="8388640" module="true" symbol="Lang"/>
         <entry id="8388639" module="true" symbol="Graphics"/>
-        <entry field="true" id="83" symbol="&lt;globals_Printer_&lt;&gt;basicPalette&gt;"/>
-        <entry id="65" method="true" symbol="center"/>
-        <entry id="95" method="true" symbol="&lt;globals_Printer_&lt;&gt;allocPrinters&gt;"/>
-        <entry field="true" id="42" symbol="ColorBlack"/>
+        <entry field="true" id="84" symbol="&lt;globals_Printer_&lt;&gt;basicPalette&gt;"/>
+        <entry id="64" method="true" symbol="center"/>
+        <entry id="97" method="true" symbol="&lt;globals_Printer_&lt;&gt;allocPrinters&gt;"/>
+        <entry field="true" id="41" symbol="ColorBlack"/>
         <entry id="8388769" module="true" object="true" symbol="Rez"/>
-        <entry id="64" method="true" symbol="success"/>
+        <entry id="63" method="true" symbol="success"/>
         <entry id="8389123" method="true" symbol="onShow"/>
-        <entry field="true" id="113" symbol="&lt;globals_SHandPrinter_&lt;&gt;penWidth&gt;"/>
+        <entry field="true" id="115" symbol="&lt;globals_SHandPrinter_&lt;&gt;penWidth&gt;"/>
         <entry field="true" id="8388782" method="true" symbol="size"/>
         <entry id="8390101" object="true" symbol="BufferedBitmap"/>
-        <entry field="true" id="58" symbol="&lt;globals_BBLayer_&lt;&gt;h&gt;"/>
-        <entry field="true" id="48" symbol="ColorRed"/>
-        <entry field="true" id="112" symbol="&lt;globals_SHandPrinter_&lt;&gt;dotWidth&gt;"/>
+        <entry field="true" id="57" symbol="&lt;globals_BBLayer_&lt;&gt;h&gt;"/>
+        <entry field="true" id="47" symbol="ColorRed"/>
+        <entry field="true" id="75" symbol="&lt;globals_IconPrinter_&lt;&gt;iconFont&gt;"/>
+        <entry field="true" id="114" symbol="&lt;globals_SHandPrinter_&lt;&gt;dotWidth&gt;"/>
         <entry id="8390095" object="true" symbol="WatchFaceDelegate"/>
-        <entry id="12" object="true" symbol="HHandPrinter"/>
+        <entry id="16" object="true" symbol="HHandPrinter"/>
         <entry id="8388702" method="true" symbol="initialize"/>
-        <entry field="true" id="66" symbol="&lt;globals_MHandPrinter_&lt;&gt;clockTime&gt;"/>
-        <entry id="102" method="true" symbol="&lt;globals_DialPrinter_&lt;&gt;printDial&gt;"/>
-        <entry field="true" id="46" symbol="AppName"/>
-        <entry id="20" object="true" symbol="MHandPrinter"/>
-        <entry id="106" method="true" symbol="&lt;globals_DatePrinter_&lt;&gt;setColors&gt;"/>
-        <entry field="true" id="67" symbol="&lt;globals_MHandPrinter_&lt;&gt;penWidth&gt;"/>
+        <entry field="true" id="65" symbol="&lt;globals_MHandPrinter_&lt;&gt;clockTime&gt;"/>
+        <entry id="104" method="true" symbol="&lt;globals_DialPrinter_&lt;&gt;printDial&gt;"/>
+        <entry field="true" id="45" symbol="AppName"/>
+        <entry id="18" object="true" symbol="MHandPrinter"/>
+        <entry id="108" method="true" symbol="&lt;globals_DatePrinter_&lt;&gt;setColors&gt;"/>
+        <entry field="true" id="66" symbol="&lt;globals_MHandPrinter_&lt;&gt;penWidth&gt;"/>
         <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
-        <entry field="true" id="78" symbol="&lt;globals_IconPrinter_&lt;&gt;btIcon&gt;"/>
-        <entry field="true" id="24" symbol="&lt;globals_HHandPrinter_&lt;&gt;penWidth&gt;"/>
-        <entry id="108" method="true" symbol="&lt;globals_DatePrinter_&lt;&gt;monthToString&gt;"/>
-        <entry field="true" id="59" symbol="&lt;globals_BBLayer_&lt;&gt;cent&gt;"/>
-        <entry field="true" id="49" symbol="NumberThree"/>
-        <entry field="true" id="79" symbol="&lt;globals_IconPrinter_&lt;&gt;battIcon&gt;"/>
-        <entry id="93" method="true" symbol="runPartial"/>
-        <entry field="true" id="55" symbol="&lt;globals_BBLayer_&lt;&gt;bb&gt;"/>
-        <entry field="true" id="97" symbol="&lt;globals_DialPrinter_&lt;&gt;fc&gt;"/>
-        <entry field="true" id="35" symbol="id_font_dial"/>
-        <entry id="15" object="true" symbol="ConnectIQTest5View"/>
-        <entry field="true" id="34" symbol="LauncherIcon"/>
-        <entry field="true" id="105" symbol="&lt;globals_DatePrinter_&lt;&gt;bc&gt;"/>
-        <entry field="true" id="75" symbol="&lt;globals_ConnectIQTest5View_&lt;&gt;p&gt;"/>
-        <entry id="114" method="true" symbol="printWithClip"/>
+        <entry field="true" id="22" symbol="&lt;globals_HHandPrinter_&lt;&gt;penWidth&gt;"/>
+        <entry id="110" method="true" symbol="&lt;globals_DatePrinter_&lt;&gt;monthToString&gt;"/>
+        <entry field="true" id="58" symbol="&lt;globals_BBLayer_&lt;&gt;cent&gt;"/>
+        <entry field="true" id="48" symbol="NumberThree"/>
+        <entry id="95" method="true" symbol="runPartial"/>
+        <entry field="true" id="54" symbol="&lt;globals_BBLayer_&lt;&gt;bb&gt;"/>
+        <entry field="true" id="99" symbol="&lt;globals_DialPrinter_&lt;&gt;fc&gt;"/>
+        <entry field="true" id="33" symbol="id_font_dial"/>
+        <entry id="10" object="true" symbol="ConnectIQTest5View"/>
+        <entry field="true" id="32" symbol="LauncherIcon"/>
+        <entry field="true" id="107" symbol="&lt;globals_DatePrinter_&lt;&gt;bc&gt;"/>
+        <entry field="true" id="74" symbol="&lt;globals_ConnectIQTest5View_&lt;&gt;p&gt;"/>
+        <entry id="116" method="true" symbol="printWithClip"/>
         <entry id="8389660" symbol="palette"/>
-        <entry id="94" method="true" symbol="&lt;globals_Printer_&lt;&gt;tryAllocLayers&gt;"/>
+        <entry id="96" method="true" symbol="&lt;globals_Printer_&lt;&gt;tryAllocLayers&gt;"/>
         <entry id="8388648" module="true" symbol="WatchUi"/>
         <entry id="8389281" method="true" symbol="onStop"/>
-        <entry id="31" method="true" symbol="&lt;globals_HHandPrinter_&lt;&gt;generateCoordinates&gt;"/>
+        <entry id="29" method="true" symbol="&lt;globals_HHandPrinter_&lt;&gt;generateCoordinates&gt;"/>
         <entry field="true" id="76" symbol="&lt;globals_IconPrinter_&lt;&gt;fc&gt;"/>
-        <entry id="9" object="true" symbol="DialPrinter"/>
+        <entry id="12" object="true" symbol="DialPrinter"/>
         <entry field="true" id="8389065" symbol="locY"/>
         <entry field="true" id="8389064" symbol="locX"/>
         <entry id="8388771" module="true" object="true" symbol="Drawables"/>
         <entry id="8389122" method="true" symbol="onLayout"/>
         <entry id="8389279" method="true" symbol="onStart"/>
-        <entry field="true" id="45" symbol="NumberNever"/>
-        <entry id="74" method="true" symbol="&lt;globals_MHandPrinter_&lt;&gt;generateCoordinates&gt;"/>
-        <entry id="100" method="true" symbol="&lt;globals_DialPrinter_&lt;&gt;fill&gt;"/>
+        <entry field="true" id="44" symbol="NumberNever"/>
+        <entry id="73" method="true" symbol="&lt;globals_MHandPrinter_&lt;&gt;generateCoordinates&gt;"/>
+        <entry id="102" method="true" symbol="&lt;globals_DialPrinter_&lt;&gt;fill&gt;"/>
         <entry id="8389376" method="true" symbol="onEnterSleep"/>
-        <entry id="60" method="true" symbol="tryAlloc"/>
-        <entry id="11" object="true" symbol="IconPrinter"/>
+        <entry id="59" method="true" symbol="tryAlloc"/>
+        <entry id="15" object="true" symbol="IconPrinter"/>
         <entry id="8389348" symbol="font"/>
         <entry id="8389347" symbol="color"/>
-        <entry field="true" id="38" symbol="BackgroundColorTitle"/>
-        <entry id="16" object="true" symbol="ConnectIQTest5Delegate"/>
-        <entry field="true" id="69" symbol="&lt;globals_MHandPrinter_&lt;&gt;arborWidth&gt;"/>
+        <entry id="81" method="true" symbol="&lt;globals_IconPrinter_&lt;&gt;btToString&gt;"/>
+        <entry field="true" id="37" symbol="BackgroundColorTitle"/>
+        <entry id="11" object="true" symbol="ConnectIQTest5Delegate"/>
+        <entry field="true" id="68" symbol="&lt;globals_MHandPrinter_&lt;&gt;arborWidth&gt;"/>
+        <entry field="true" id="35" symbol="id_font_icon"/>
         <entry field="true" id="8389067" symbol="height"/>
-        <entry id="90" method="true" symbol="AllowPartial"/>
-        <entry field="true" id="98" symbol="&lt;globals_DialPrinter_&lt;&gt;bc&gt;"/>
-        <entry id="29" method="true" symbol="&lt;globals_HHandPrinter_&lt;&gt;setColors&gt;"/>
-        <entry field="true" id="41" symbol="AlwaysShowBatteryIconTitle"/>
-        <entry field="true" id="109" symbol="&lt;globals_SHandPrinter_&lt;&gt;w&gt;"/>
-        <entry id="72" method="true" symbol="&lt;globals_MHandPrinter_&lt;&gt;setColors&gt;"/>
-        <entry field="true" id="84" symbol="&lt;globals_Printer_&lt;&gt;l&gt;"/>
-        <entry field="true" id="54" symbol="SecondHandColorTitle"/>
-        <entry id="33" module="true" symbol="Layouts"/>
+        <entry id="92" method="true" symbol="AllowPartial"/>
+        <entry field="true" id="91" symbol="&lt;globals_Printer_&lt;&gt;iconPrinter&gt;"/>
+        <entry field="true" id="100" symbol="&lt;globals_DialPrinter_&lt;&gt;bc&gt;"/>
+        <entry id="27" method="true" symbol="&lt;globals_HHandPrinter_&lt;&gt;setColors&gt;"/>
+        <entry field="true" id="40" symbol="AlwaysShowBatteryIconTitle"/>
+        <entry field="true" id="111" symbol="&lt;globals_SHandPrinter_&lt;&gt;w&gt;"/>
+        <entry id="71" method="true" symbol="&lt;globals_MHandPrinter_&lt;&gt;setColors&gt;"/>
+        <entry field="true" id="85" symbol="&lt;globals_Printer_&lt;&gt;l&gt;"/>
+        <entry field="true" id="53" symbol="SecondHandColorTitle"/>
+        <entry id="31" module="true" symbol="Layouts"/>
         <entry field="true" id="77" symbol="&lt;globals_IconPrinter_&lt;&gt;bc&gt;"/>
         <entry id="8389125" method="true" symbol="onHide"/>
-        <entry field="true" id="50" symbol="NumberOne"/>
-        <entry field="true" id="47" symbol="NumberFive"/>
+        <entry field="true" id="49" symbol="NumberOne"/>
+        <entry field="true" id="46" symbol="NumberFive"/>
         <entry id="8390088" module="true" object="true" symbol="JsonData"/>
-        <entry id="18" object="true" symbol="BattIcon"/>
-        <entry field="true" id="70" symbol="&lt;globals_MHandPrinter_&lt;&gt;fc&gt;"/>
+        <entry field="true" id="69" symbol="&lt;globals_MHandPrinter_&lt;&gt;fc&gt;"/>
         <entry field="true" id="8389066" symbol="width"/>
-        <entry field="true" id="110" symbol="&lt;globals_SHandPrinter_&lt;&gt;h&gt;"/>
-        <entry field="true" id="51" symbol="ShowIconPaletteRectangleTitle"/>
+        <entry field="true" id="112" symbol="&lt;globals_SHandPrinter_&lt;&gt;h&gt;"/>
+        <entry field="true" id="50" symbol="ShowIconPaletteRectangleTitle"/>
         <entry field="true" id="8389063" symbol="identifier"/>
-        <entry id="17" object="true" symbol="ConnectIQTest5App"/>
-        <entry field="true" id="86" symbol="&lt;globals_Printer_&lt;&gt;hHandPrinter&gt;"/>
-        <entry field="true" id="27" symbol="&lt;globals_HHandPrinter_&lt;&gt;fc&gt;"/>
-        <entry id="19" object="true" symbol="SHandPrinter"/>
-        <entry id="32" module="true" symbol="Menus"/>
-        <entry id="116" method="true" symbol="&lt;globals_SHandPrinter_&lt;&gt;generateClipRect&gt;"/>
-        <entry id="22" object="true" symbol="Printer"/>
-        <entry field="true" id="111" symbol="&lt;globals_SHandPrinter_&lt;&gt;c&gt;"/>
-        <entry field="true" id="96" symbol="&lt;globals_DialPrinter_&lt;&gt;dialFont&gt;"/>
-        <entry id="115" method="true" symbol="&lt;globals_SHandPrinter_&lt;&gt;fillPosition&gt;"/>
-        <entry id="62" method="true" symbol="tryAllocWithSize"/>
-        <entry field="true" id="14" symbol="partialUpdatesAllowed"/>
-        <entry field="true" id="39" symbol="NumberFour"/>
+        <entry id="13" object="true" symbol="ConnectIQTest5App"/>
+        <entry field="true" id="87" symbol="&lt;globals_Printer_&lt;&gt;hHandPrinter&gt;"/>
+        <entry field="true" id="25" symbol="&lt;globals_HHandPrinter_&lt;&gt;fc&gt;"/>
+        <entry id="17" object="true" symbol="SHandPrinter"/>
+        <entry id="30" module="true" symbol="Menus"/>
+        <entry id="118" method="true" symbol="&lt;globals_SHandPrinter_&lt;&gt;generateClipRect&gt;"/>
+        <entry id="20" object="true" symbol="Printer"/>
+        <entry field="true" id="113" symbol="&lt;globals_SHandPrinter_&lt;&gt;c&gt;"/>
+        <entry field="true" id="98" symbol="&lt;globals_DialPrinter_&lt;&gt;dialFont&gt;"/>
+        <entry id="117" method="true" symbol="&lt;globals_SHandPrinter_&lt;&gt;fillPosition&gt;"/>
+        <entry id="61" method="true" symbol="tryAllocWithSize"/>
+        <entry field="true" id="9" symbol="partialUpdatesAllowed"/>
+        <entry field="true" id="38" symbol="NumberFour"/>
         <entry id="8388772" module="true" object="true" symbol="Fonts"/>
-        <entry id="21" object="true" symbol="BBLayer"/>
-        <entry id="107" method="true" symbol="&lt;globals_DatePrinter_&lt;&gt;dowToString&gt;"/>
-        <entry id="99" method="true" symbol="&lt;globals_DialPrinter_&lt;&gt;setColorsToFill&gt;"/>
+        <entry id="19" object="true" symbol="BBLayer"/>
+        <entry id="109" method="true" symbol="&lt;globals_DatePrinter_&lt;&gt;dowToString&gt;"/>
+        <entry id="101" method="true" symbol="&lt;globals_DialPrinter_&lt;&gt;setColorsToFill&gt;"/>
         <entry id="8388635" module="true" symbol="Application"/>
         <entry id="8390435" method="true" symbol="context"/>
     </symbolTable>
     <localVars>
-        <entry endPc="268435563" name="l" stackId="1" startPc="268435506"/>
-        <entry endPc="268435814" name="c" stackId="2" startPc="268435717"/>
-        <entry endPc="268435818" name="l" stackId="1" startPc="268435699"/>
-        <entry endPc="268436068" name="c" stackId="2" startPc="268435972"/>
-        <entry endPc="268436072" name="l" stackId="1" startPc="268435954"/>
-        <entry endPc="268436477" name="s" stackId="3" startPc="268436140"/>
-        <entry endPc="268436477" name="d" stackId="2" startPc="268436140"/>
-        <entry endPc="268436477" name="c" stackId="4" startPc="268436140"/>
-        <entry endPc="268436481" name="l" stackId="1" startPc="268436122"/>
-        <entry endPc="268436748" name="arg" stackId="1" startPc="268436617"/>
-        <entry endPc="268436979" name="arg" stackId="1" startPc="268436748"/>
-        <entry endPc="268437026" name="l" stackId="1" startPc="268436979"/>
-        <entry endPc="268437026" name="f" stackId="2" startPc="268436979"/>
-        <entry endPc="268437260" name="l" stackId="1" startPc="268437165"/>
-        <entry endPc="268438006" name="sin" stackId="5" startPc="268437414"/>
-        <entry endPc="268438006" name="cos" stackId="4" startPc="268437414"/>
-        <entry endPc="268438006" name="pts" stackId="6" startPc="268437414"/>
-        <entry endPc="268438006" name="angle" stackId="3" startPc="268437414"/>
-        <entry endPc="268438006" name="c" stackId="2" startPc="268437414"/>
-        <entry endPc="268438010" name="l" stackId="1" startPc="268437396"/>
-        <entry endPc="268438464" name="x" stackId="11" startPc="268438341"/>
-        <entry endPc="268438464" name="y" stackId="12" startPc="268438341"/>
-        <entry endPc="268438477" name="i" stackId="10" startPc="268438341"/>
-        <entry endPc="268438480" name="sin" stackId="8" startPc="268438014"/>
-        <entry endPc="268438480" name="ret" stackId="9" startPc="268438014"/>
-        <entry endPc="268438480" name="cos" stackId="7" startPc="268438014"/>
-        <entry endPc="268438480" name="coords" stackId="6" startPc="268438014"/>
-        <entry endPc="268438481" name="handLength" stackId="3" startPc="268438010"/>
-        <entry endPc="268438481" name="center" stackId="1" startPc="268438010"/>
-        <entry endPc="268438481" name="tailLength" stackId="4" startPc="268438010"/>
-        <entry endPc="268438481" name="handWidth" stackId="5" startPc="268438010"/>
-        <entry endPc="268438481" name="angle" stackId="2" startPc="268438010"/>
-        <entry endPc="268438657" name="c" stackId="5" startPc="268438531"/>
-        <entry endPc="268438661" name="l" stackId="1" startPc="268438484"/>
-        <entry endPc="268438661" name="fc" stackId="3" startPc="268438484"/>
-        <entry endPc="268438661" name="f" stackId="2" startPc="268438484"/>
-        <entry endPc="268438661" name="bc" stackId="4" startPc="268438484"/>
-        <entry endPc="268438819" name="dc" stackId="1" startPc="268438721"/>
-        <entry endPc="268438936" name="dc" stackId="1" startPc="268438824"/>
-        <entry endPc="268439048" name="dc" stackId="1" startPc="268438936"/>
-        <entry endPc="268439201" name="powerInfo" stackId="1" startPc="268439126"/>
-        <entry endPc="268439229" name="state" stackId="1" startPc="268439224"/>
-        <entry endPc="268439234" name="state" stackId="1" startPc="268439229"/>
-        <entry endPc="268439412" name="r" stackId="5" startPc="268439387"/>
-        <entry endPc="268439416" name="l" stackId="1" startPc="268439369"/>
-        <entry endPc="268439416" name="fc" stackId="3" startPc="268439369"/>
-        <entry endPc="268439416" name="f" stackId="2" startPc="268439369"/>
-        <entry endPc="268439416" name="bc" stackId="4" startPc="268439369"/>
-        <entry endPc="268439492" name="arg2center" stackId="2" startPc="268439419"/>
-        <entry endPc="268439492" name="arg1size" stackId="1" startPc="268439419"/>
-        <entry endPc="268440054" name="i" stackId="5" startPc="268439935"/>
-        <entry endPc="268440054" name="position" stackId="4" startPc="268439496"/>
-        <entry endPc="268440054" name="s" stackId="3" startPc="268439496"/>
-        <entry endPc="268440054" name="clockTime" stackId="2" startPc="268439496"/>
-        <entry endPc="268440055" name="dc" stackId="1" startPc="268439492"/>
-        <entry endPc="268440814" name="i" stackId="6" startPc="268440695"/>
-        <entry endPc="268440814" name="position" stackId="4" startPc="268440059"/>
-        <entry endPc="268440814" name="clipRect" stackId="5" startPc="268440059"/>
-        <entry endPc="268440814" name="s" stackId="3" startPc="268440059"/>
-        <entry endPc="268440814" name="clockTime" stackId="2" startPc="268440059"/>
-        <entry endPc="268440815" name="dc" stackId="1" startPc="268440055"/>
-        <entry endPc="268441028" name="x" stackId="8" startPc="268440859"/>
-        <entry endPc="268441028" name="sin" stackId="7" startPc="268440859"/>
-        <entry endPc="268441028" name="cos" stackId="6" startPc="268440859"/>
-        <entry endPc="268441028" name="angle" stackId="5" startPc="268440859"/>
-        <entry endPc="268441028" name="y" stackId="9" startPc="268440859"/>
-        <entry endPc="268441041" name="i" stackId="4" startPc="268440859"/>
-        <entry endPc="268441044" name="radius" stackId="3" startPc="268440819"/>
-        <entry endPc="268441045" name="s" stackId="2" startPc="268440815"/>
-        <entry endPc="268441045" name="p" stackId="1" startPc="268440815"/>
-        <entry endPc="268441407" name="i" stackId="4" startPc="268441147"/>
-        <entry endPc="268441434" name="max" stackId="3" startPc="268441049"/>
-        <entry endPc="268441434" name="min" stackId="2" startPc="268441049"/>
-        <entry endPc="268441435" name="p" stackId="1" startPc="268441045"/>
-        <entry endPc="268441530" name="l" stackId="1" startPc="268441435"/>
-        <entry endPc="268442207" name="pts" stackId="4" startPc="268441684"/>
-        <entry endPc="268442207" name="angle" stackId="3" startPc="268441684"/>
-        <entry endPc="268442207" name="c" stackId="2" startPc="268441684"/>
-        <entry endPc="268442211" name="l" stackId="1" startPc="268441666"/>
-        <entry endPc="268442665" name="x" stackId="11" startPc="268442542"/>
-        <entry endPc="268442665" name="y" stackId="12" startPc="268442542"/>
-        <entry endPc="268442678" name="i" stackId="10" startPc="268442542"/>
-        <entry endPc="268442681" name="sin" stackId="8" startPc="268442215"/>
-        <entry endPc="268442681" name="ret" stackId="9" startPc="268442215"/>
-        <entry endPc="268442681" name="cos" stackId="7" startPc="268442215"/>
-        <entry endPc="268442681" name="coords" stackId="6" startPc="268442215"/>
-        <entry endPc="268442682" name="handLength" stackId="3" startPc="268442211"/>
-        <entry endPc="268442682" name="center" stackId="1" startPc="268442211"/>
-        <entry endPc="268442682" name="tailLength" stackId="4" startPc="268442211"/>
-        <entry endPc="268442682" name="handWidth" stackId="5" startPc="268442211"/>
-        <entry endPc="268442682" name="angle" stackId="2" startPc="268442211"/>
-        <entry endPc="268442940" name="dc" stackId="1" startPc="268442685"/>
-        <entry endPc="268443205" name="arg2palette" stackId="2" startPc="268442940"/>
-        <entry endPc="268443205" name="arg1dc" stackId="1" startPc="268442940"/>
-        <entry endPc="268443454" name="arg2size" stackId="2" startPc="268443205"/>
-        <entry endPc="268443454" name="arg1dc" stackId="1" startPc="268443205"/>
-        <entry endPc="268443552" name="ret" stackId="1" startPc="268443509"/>
-        <entry endPc="268443585" name="arg" stackId="1" startPc="268443570"/>
-        <entry endPc="268443600" name="arg" stackId="1" startPc="268443585"/>
-        <entry endPc="268443728" name="argDc" stackId="1" startPc="268443600"/>
-        <entry endPc="268443979" name="argDc" stackId="1" startPc="268443728"/>
-        <entry endPc="268444080" name="argDc" stackId="1" startPc="268443979"/>
-        <entry endPc="268444143" name="arg" stackId="1" startPc="268444080"/>
-        <entry endPc="268444599" name="rez_cmp_local_bitmap_TimeLabel" stackId="2" startPc="268444280"/>
-        <entry endPc="268444599" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="3" startPc="268444280"/>
-        <entry endPc="268444600" name="dc" stackId="1" startPc="268444268"/>
+        <entry endPc="268435611" name="dc" stackId="1" startPc="268435513"/>
+        <entry endPc="268435728" name="dc" stackId="1" startPc="268435616"/>
+        <entry endPc="268435840" name="dc" stackId="1" startPc="268435728"/>
+        <entry endPc="268435993" name="powerInfo" stackId="1" startPc="268435918"/>
+        <entry endPc="268436100" name="l" stackId="1" startPc="268436043"/>
+        <entry endPc="268436351" name="c" stackId="2" startPc="268436254"/>
+        <entry endPc="268436355" name="l" stackId="1" startPc="268436236"/>
+        <entry endPc="268436605" name="c" stackId="2" startPc="268436509"/>
+        <entry endPc="268436609" name="l" stackId="1" startPc="268436491"/>
+        <entry endPc="268436637" name="state" stackId="1" startPc="268436632"/>
+        <entry endPc="268436642" name="state" stackId="1" startPc="268436637"/>
+        <entry endPc="268437182" name="s" stackId="3" startPc="268436845"/>
+        <entry endPc="268437182" name="d" stackId="2" startPc="268436845"/>
+        <entry endPc="268437182" name="c" stackId="4" startPc="268436845"/>
+        <entry endPc="268437186" name="l" stackId="1" startPc="268436827"/>
+        <entry endPc="268437453" name="arg" stackId="1" startPc="268437322"/>
+        <entry endPc="268437684" name="arg" stackId="1" startPc="268437453"/>
+        <entry endPc="268437914" name="c" stackId="2" startPc="268437752"/>
+        <entry endPc="268437918" name="l" stackId="1" startPc="268437734"/>
+        <entry endPc="268438198" name="b" stackId="1" startPc="268438087"/>
+        <entry endPc="268438340" name="l" stackId="1" startPc="268438245"/>
+        <entry endPc="268439086" name="sin" stackId="5" startPc="268438494"/>
+        <entry endPc="268439086" name="cos" stackId="4" startPc="268438494"/>
+        <entry endPc="268439086" name="pts" stackId="6" startPc="268438494"/>
+        <entry endPc="268439086" name="angle" stackId="3" startPc="268438494"/>
+        <entry endPc="268439086" name="c" stackId="2" startPc="268438494"/>
+        <entry endPc="268439090" name="l" stackId="1" startPc="268438476"/>
+        <entry endPc="268439544" name="x" stackId="11" startPc="268439421"/>
+        <entry endPc="268439544" name="y" stackId="12" startPc="268439421"/>
+        <entry endPc="268439557" name="i" stackId="10" startPc="268439421"/>
+        <entry endPc="268439560" name="sin" stackId="8" startPc="268439094"/>
+        <entry endPc="268439560" name="ret" stackId="9" startPc="268439094"/>
+        <entry endPc="268439560" name="cos" stackId="7" startPc="268439094"/>
+        <entry endPc="268439560" name="coords" stackId="6" startPc="268439094"/>
+        <entry endPc="268439561" name="handLength" stackId="3" startPc="268439090"/>
+        <entry endPc="268439561" name="center" stackId="1" startPc="268439090"/>
+        <entry endPc="268439561" name="tailLength" stackId="4" startPc="268439090"/>
+        <entry endPc="268439561" name="handWidth" stackId="5" startPc="268439090"/>
+        <entry endPc="268439561" name="angle" stackId="2" startPc="268439090"/>
+        <entry endPc="268439637" name="arg2center" stackId="2" startPc="268439564"/>
+        <entry endPc="268439637" name="arg1size" stackId="1" startPc="268439564"/>
+        <entry endPc="268440199" name="i" stackId="5" startPc="268440080"/>
+        <entry endPc="268440199" name="position" stackId="4" startPc="268439641"/>
+        <entry endPc="268440199" name="s" stackId="3" startPc="268439641"/>
+        <entry endPc="268440199" name="clockTime" stackId="2" startPc="268439641"/>
+        <entry endPc="268440200" name="dc" stackId="1" startPc="268439637"/>
+        <entry endPc="268440959" name="i" stackId="6" startPc="268440840"/>
+        <entry endPc="268440959" name="position" stackId="4" startPc="268440204"/>
+        <entry endPc="268440959" name="clipRect" stackId="5" startPc="268440204"/>
+        <entry endPc="268440959" name="s" stackId="3" startPc="268440204"/>
+        <entry endPc="268440959" name="clockTime" stackId="2" startPc="268440204"/>
+        <entry endPc="268440960" name="dc" stackId="1" startPc="268440200"/>
+        <entry endPc="268441173" name="x" stackId="8" startPc="268441004"/>
+        <entry endPc="268441173" name="sin" stackId="7" startPc="268441004"/>
+        <entry endPc="268441173" name="cos" stackId="6" startPc="268441004"/>
+        <entry endPc="268441173" name="angle" stackId="5" startPc="268441004"/>
+        <entry endPc="268441173" name="y" stackId="9" startPc="268441004"/>
+        <entry endPc="268441186" name="i" stackId="4" startPc="268441004"/>
+        <entry endPc="268441189" name="radius" stackId="3" startPc="268440964"/>
+        <entry endPc="268441190" name="s" stackId="2" startPc="268440960"/>
+        <entry endPc="268441190" name="p" stackId="1" startPc="268440960"/>
+        <entry endPc="268441552" name="i" stackId="4" startPc="268441292"/>
+        <entry endPc="268441579" name="max" stackId="3" startPc="268441194"/>
+        <entry endPc="268441579" name="min" stackId="2" startPc="268441194"/>
+        <entry endPc="268441580" name="p" stackId="1" startPc="268441190"/>
+        <entry endPc="268441675" name="l" stackId="1" startPc="268441580"/>
+        <entry endPc="268442352" name="pts" stackId="4" startPc="268441829"/>
+        <entry endPc="268442352" name="angle" stackId="3" startPc="268441829"/>
+        <entry endPc="268442352" name="c" stackId="2" startPc="268441829"/>
+        <entry endPc="268442356" name="l" stackId="1" startPc="268441811"/>
+        <entry endPc="268442810" name="x" stackId="11" startPc="268442687"/>
+        <entry endPc="268442810" name="y" stackId="12" startPc="268442687"/>
+        <entry endPc="268442823" name="i" stackId="10" startPc="268442687"/>
+        <entry endPc="268442826" name="sin" stackId="8" startPc="268442360"/>
+        <entry endPc="268442826" name="ret" stackId="9" startPc="268442360"/>
+        <entry endPc="268442826" name="cos" stackId="7" startPc="268442360"/>
+        <entry endPc="268442826" name="coords" stackId="6" startPc="268442360"/>
+        <entry endPc="268442827" name="handLength" stackId="3" startPc="268442356"/>
+        <entry endPc="268442827" name="center" stackId="1" startPc="268442356"/>
+        <entry endPc="268442827" name="tailLength" stackId="4" startPc="268442356"/>
+        <entry endPc="268442827" name="handWidth" stackId="5" startPc="268442356"/>
+        <entry endPc="268442827" name="angle" stackId="2" startPc="268442356"/>
+        <entry endPc="268443085" name="dc" stackId="1" startPc="268442830"/>
+        <entry endPc="268443350" name="arg2palette" stackId="2" startPc="268443085"/>
+        <entry endPc="268443350" name="arg1dc" stackId="1" startPc="268443085"/>
+        <entry endPc="268443599" name="arg2size" stackId="2" startPc="268443350"/>
+        <entry endPc="268443599" name="arg1dc" stackId="1" startPc="268443350"/>
+        <entry endPc="268443697" name="ret" stackId="1" startPc="268443654"/>
+        <entry endPc="268443730" name="arg" stackId="1" startPc="268443715"/>
+        <entry endPc="268443745" name="arg" stackId="1" startPc="268443730"/>
+        <entry endPc="268443873" name="argDc" stackId="1" startPc="268443745"/>
+        <entry endPc="268444150" name="argDc" stackId="1" startPc="268443873"/>
+        <entry endPc="268444251" name="argDc" stackId="1" startPc="268444150"/>
+        <entry endPc="268444314" name="arg" stackId="1" startPc="268444251"/>
+        <entry endPc="268444800" name="rez_cmp_local_bitmap_TimeLabel" stackId="2" startPc="268444481"/>
+        <entry endPc="268444800" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="3" startPc="268444481"/>
+        <entry endPc="268444801" name="dc" stackId="1" startPc="268444469"/>
     </localVars>
     <annotations/>
     <functions>
-        <functionEntry accessMode="public" name="initialize" parent="DialPrinter">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="print" parent="DialPrinter">
-            <param id="l"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="private" name="&lt;globals_DialPrinter_&lt;&gt;setColorsToFill&gt;" parent="DialPrinter">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="private" name="&lt;globals_DialPrinter_&lt;&gt;fill&gt;" parent="DialPrinter">
-            <param id="l"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="private" name="&lt;globals_DialPrinter_&lt;&gt;setColorsToPrint&gt;" parent="DialPrinter">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="private" name="&lt;globals_DialPrinter_&lt;&gt;printDial&gt;" parent="DialPrinter">
-            <param id="l"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="initialize" parent="DatePrinter">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="print" parent="DatePrinter">
-            <param id="l"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="private" name="&lt;globals_DatePrinter_&lt;&gt;setColors&gt;" parent="DatePrinter">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="private" name="&lt;globals_DatePrinter_&lt;&gt;dowToString&gt;" parent="DatePrinter">
-            <param id="arg"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="private" name="&lt;globals_DatePrinter_&lt;&gt;monthToString&gt;" parent="DatePrinter">
-            <param id="arg"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="print" parent="IconPrinter">
-            <param id="l"/>
-            <param id="f"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="private" name="&lt;globals_IconPrinter_&lt;&gt;setColors&gt;" parent="IconPrinter">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="print" parent="HHandPrinter">
-            <param id="l"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="private" name="&lt;globals_HHandPrinter_&lt;&gt;setColors&gt;" parent="HHandPrinter">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="private" name="&lt;globals_HHandPrinter_&lt;&gt;printHand&gt;" parent="HHandPrinter">
-            <param id="l"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="private" name="&lt;globals_HHandPrinter_&lt;&gt;generateCoordinates&gt;" parent="HHandPrinter">
-            <param id="center"/>
-            <param id="angle"/>
-            <param id="handLength"/>
-            <param id="tailLength"/>
-            <param id="handWidth"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="print" parent="BtIcon">
-            <param id="l"/>
-            <param id="f"/>
-            <param id="fc"/>
-            <param id="bc"/>
-            <documentation/>
-        </functionEntry>
         <functionEntry accessMode="public" name="initialize" parent="ConnectIQTest5View">
             <documentation/>
         </functionEntry>
@@ -545,6 +463,27 @@
             <param id="powerInfo"/>
             <documentation/>
         </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="DialPrinter">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="print" parent="DialPrinter">
+            <param id="l"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals_DialPrinter_&lt;&gt;setColorsToFill&gt;" parent="DialPrinter">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals_DialPrinter_&lt;&gt;fill&gt;" parent="DialPrinter">
+            <param id="l"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals_DialPrinter_&lt;&gt;setColorsToPrint&gt;" parent="DialPrinter">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals_DialPrinter_&lt;&gt;printDial&gt;" parent="DialPrinter">
+            <param id="l"/>
+            <documentation/>
+        </functionEntry>
         <functionEntry accessMode="public" name="initialize" parent="ConnectIQTest5App">
             <documentation/>
         </functionEntry>
@@ -559,11 +498,60 @@
         <functionEntry accessMode="public" name="getInitialView" parent="ConnectIQTest5App">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="print" parent="BattIcon">
+        <functionEntry accessMode="public" name="initialize" parent="DatePrinter">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="print" parent="DatePrinter">
             <param id="l"/>
-            <param id="f"/>
-            <param id="fc"/>
-            <param id="bc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals_DatePrinter_&lt;&gt;setColors&gt;" parent="DatePrinter">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals_DatePrinter_&lt;&gt;dowToString&gt;" parent="DatePrinter">
+            <param id="arg"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals_DatePrinter_&lt;&gt;monthToString&gt;" parent="DatePrinter">
+            <param id="arg"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="IconPrinter">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="print" parent="IconPrinter">
+            <param id="l"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals_IconPrinter_&lt;&gt;setColors&gt;" parent="IconPrinter">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals_IconPrinter_&lt;&gt;toString&gt;" parent="IconPrinter">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals_IconPrinter_&lt;&gt;batteryToString&gt;" parent="IconPrinter">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals_IconPrinter_&lt;&gt;btToString&gt;" parent="IconPrinter">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="print" parent="HHandPrinter">
+            <param id="l"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals_HHandPrinter_&lt;&gt;setColors&gt;" parent="HHandPrinter">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals_HHandPrinter_&lt;&gt;printHand&gt;" parent="HHandPrinter">
+            <param id="l"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals_HHandPrinter_&lt;&gt;generateCoordinates&gt;" parent="HHandPrinter">
+            <param id="center"/>
+            <param id="angle"/>
+            <param id="handLength"/>
+            <param id="tailLength"/>
+            <param id="handWidth"/>
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="initialize" parent="SHandPrinter">
@@ -672,25 +660,23 @@
     </functions>
     <dataEntryOffsetMappings>
         <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
-        <dataEntry offset="342" parentId="globals" symbolId="BtIcon" type="class"/>
-        <dataEntry offset="397" parentId="globals" symbolId="HHandPrinter" type="class"/>
-        <dataEntry offset="524" parentId="globals" symbolId="Rez" type="module"/>
-        <dataEntry offset="603" parentId="Rez" symbolId="Drawables" type="module"/>
-        <dataEntry offset="642" parentId="Rez" symbolId="Menus" type="module"/>
-        <dataEntry offset="673" parentId="Rez" symbolId="Fonts" type="module"/>
-        <dataEntry offset="720" parentId="Rez" symbolId="JsonData" type="module"/>
-        <dataEntry offset="751" parentId="Rez" symbolId="Layouts" type="module"/>
-        <dataEntry offset="790" parentId="Rez" symbolId="Strings" type="module"/>
-        <dataEntry offset="965" parentId="globals" symbolId="BBLayer" type="class"/>
-        <dataEntry offset="1116" parentId="globals" symbolId="ConnectIQTest5Delegate" type="class"/>
-        <dataEntry offset="1171" parentId="globals" symbolId="MHandPrinter" type="class"/>
-        <dataEntry offset="1298" parentId="globals" symbolId="BattIcon" type="class"/>
-        <dataEntry offset="1353" parentId="globals" symbolId="ConnectIQTest5View" type="class"/>
-        <dataEntry offset="1464" parentId="globals" symbolId="IconPrinter" type="class"/>
-        <dataEntry offset="1559" parentId="globals" symbolId="ConnectIQTest5App" type="class"/>
-        <dataEntry offset="1630" parentId="globals" symbolId="Printer" type="class"/>
-        <dataEntry offset="1797" parentId="globals" symbolId="DialPrinter" type="class"/>
-        <dataEntry offset="1908" parentId="globals" symbolId="DatePrinter" type="class"/>
-        <dataEntry offset="2011" parentId="globals" symbolId="SHandPrinter" type="class"/>
+        <dataEntry offset="310" parentId="globals" symbolId="HHandPrinter" type="class"/>
+        <dataEntry offset="437" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="516" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="555" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="586" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="641" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="672" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="711" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="886" parentId="globals" symbolId="BBLayer" type="class"/>
+        <dataEntry offset="1037" parentId="globals" symbolId="ConnectIQTest5Delegate" type="class"/>
+        <dataEntry offset="1092" parentId="globals" symbolId="MHandPrinter" type="class"/>
+        <dataEntry offset="1219" parentId="globals" symbolId="ConnectIQTest5View" type="class"/>
+        <dataEntry offset="1330" parentId="globals" symbolId="IconPrinter" type="class"/>
+        <dataEntry offset="1441" parentId="globals" symbolId="ConnectIQTest5App" type="class"/>
+        <dataEntry offset="1512" parentId="globals" symbolId="Printer" type="class"/>
+        <dataEntry offset="1687" parentId="globals" symbolId="DialPrinter" type="class"/>
+        <dataEntry offset="1798" parentId="globals" symbolId="DatePrinter" type="class"/>
+        <dataEntry offset="1901" parentId="globals" symbolId="SHandPrinter" type="class"/>
     </dataEntryOffsetMappings>
 </debugInfo>
