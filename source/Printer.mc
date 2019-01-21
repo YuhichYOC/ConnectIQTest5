@@ -13,7 +13,6 @@ class Printer {
     private var datePrinter;
     private var sHandPrinter;
     private var iconPrinter;
-    private var minutesDuringRunPartial;
 
     public function AllowPartial(arg) {
         partialAllowed = arg;
@@ -21,9 +20,6 @@ class Printer {
 
     public function Awaken(arg) {
         awake = arg;
-        if (awake) {
-            minutesDuringRunPartial = 0;
-        }
     }
 
     public function initialize(argDc) {
@@ -33,7 +29,6 @@ class Printer {
         if (l.success()) {
             sHandPrinter = new SHandPrinter(l.size(), l.center());
         }
-        minutesDuringRunPartial = 0;
     }
 
     public function run(argDc) {
@@ -46,24 +41,17 @@ class Printer {
         if (l.success()) {
             argDc.drawBitmap(0, 0, l.buffer());
         }
-        if (Application.getApp().getProperty("MinutesShowSecondHand") >= minutesDuringRunPartial) {
-            ++minutesDuringRunPartial;
-        }
-        if (l.success() && (Application.getApp().getProperty("MinutesShowSecondHand") > minutesDuringRunPartial)) {
+        if (l.success() && awake) {
             if (partialAllowed) {
                 sHandPrinter.printWithClip(argDc);
-            } else if (awake) {
-                sHandPrinter.print(argDc);
             }
         }
     }
 
     public function runPartial(argDc) {
-        if (l.success()  && (Application.getApp().getProperty("MinutesShowSecondHand") > minutesDuringRunPartial)) {
-            if (partialAllowed) {
-                argDc.drawBitmap(0, 0, l.buffer());
-                sHandPrinter.printWithClip(argDc);
-            }
+        if (l.success() && awake && partialAllowed) {
+            argDc.drawBitmap(0, 0, l.buffer());
+            sHandPrinter.printWithClip(argDc);
         }
     }
 
